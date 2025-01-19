@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Amal%20Kurian%20Tomy&fontSize=90&animation=fadeIn)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=AerisWispX&fontSize=90&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=BCA+Graduate;Full+Stack+Developer;Code+Craftsman;Digital+Architect;Passionate+Problem+Solver)](https://git.io/typing-svg)
 
