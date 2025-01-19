@@ -80,7 +80,7 @@ mindmap
 
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=AerisWispX&repo=your-repo-name&theme=radical)](https://github.com/AerisWispX/RealTimeChat)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=AerisWispX&repo=RealTimeChat&theme=radical)](https://github.com/AerisWispX/RealTimeChat)
 
 </div>
 
