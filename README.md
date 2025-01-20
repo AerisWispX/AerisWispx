@@ -1,106 +1,146 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=AerisWispX&fontSize=90&animation=fadeIn)
+![Header Banner](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,24,36&height=300&section=header&text=AerisWispX&fontSize=90&animation=fadeIn&stroke=BBE1FA&strokeWidth=2)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=BCA+Graduate;Full+Stack+Developer;Code+Craftsman;Digital+Architect;Passionate+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=600&lines=BCA+Graduate;Full+Stack+Developer;Code+Craftsman;Digital+Architect;System+Designer;UX+Enthusiast;Cloud+Engineer)](https://git.io/typing-svg)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=AerisWispX&color=61DAFB&style=for-the-badge)](https://github.com/AerisWispX)
 
 </div>
 
-## 🌌 Welcome to My Digital Universe!
+## 🌌 Digital Portfolio
 
-> *"In the realm of code, every bug is just an opportunity for a creative solution"*
+```typescript
+interface Developer {
+    readonly name: string;
+    title: string;
+    location: string;
+    contacts: Contact[];
+    skills: Map<string, string[]>;
+    currentFocus: string[];
+    yearsOfExperience: number;
+}
 
-```javascript
-const AboutMe = {
+const AboutMe: Developer = {
     name: "Amal Kurian Tomy",
-    title: "Full Stack Developer & BCA Graduate",
+    title: "Full Stack Developer & Cloud Architect",
     location: "Kerala, India",
-    currentStatus: "Building digital dreams, one commit at a time",
-    interests: ["Web Development", "Software Architecture", "Problem Solving"],
-    coffeeMeter: "☕☕☕☕",
-    mode: "Always Learning 🚀"
+    contacts: [
+        { platform: "LinkedIn", url: "linkedin.com/in/your-profile" },
+        { platform: "Portfolio", url: "your-portfolio.com" },
+        { platform: "Email", address: "your-email@example.com" }
+    ],
+    skills: new Map([
+        ["languages", ["TypeScript", "Python", "Go", "Rust", "PHP", "Java"]],
+        ["frontend", ["React", "Vue", "Svelte", "Next.js", "TailwindCSS"]],
+        ["backend", ["Node.js", "Django", "Laravel", "Spring Boot"]],
+        ["cloud", ["AWS", "GCP", "Azure", "Docker", "Kubernetes"]]
+    ]),
+    currentFocus: [
+        "Microservices Architecture",
+        "Cloud-Native Applications",
+        "System Design",
+        "Web3 Development"
+    ],
+    yearsOfExperience: 3
 };
 ```
 
-## 💫 Tech Constellation
+## 💫 Technology Arsenal
 
 <div align="center">
 
-### 🌟 Primary Technologies
+### 🔥 Core Stack
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-### 🌍 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+### 🌐 Frontend Ecosystem
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### ⚡ Backend & Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 </div>
 
-## 📊 GitHub Analytics
+## 📊 Performance Metrics
 
 <div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AerisWispX&show_icons=true&theme=radical&hide_border=true)](https://github.com/AerisWispX)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AerisWispX&theme=radical&hide_border=true)](https://github.com/AerisWispX)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AerisWispX&theme=radical" width="100%" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AerisWispX&layout=compact&theme=radical&hide_border=true)](https://github.com/AerisWispX)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AerisWispX&theme=radical" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AerisWispX&theme=radical" width="45%" />
+</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AerisWispX&theme=radical&hide_border=true&stroke=61DAFB&ring=61DAFB&fire=61DAFB)](https://github.com/AerisWispX)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AerisWispX&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-## 🎯 Current Quests
+## 🎯 2024 Roadmap
 
 ```mermaid
-mindmap
-  root((2024 Goals))
-    Full Stack Mastery
-      Frontend Frameworks
-      Backend Development
-      Database Design
-    Open Source
-      Contribute
-      Create Projects
-      Collaborate
-    Professional Growth
-      Portfolio Building
-      Network Expansion
-      Skill Enhancement
+graph TB
+    A[2024 Vision] --> B[Technical Excellence]
+    A --> C[Open Source]
+    A --> D[Professional Growth]
+    
+    B --> B1[Cloud Native Development]
+    B --> B2[System Design Patterns]
+    B --> B3[Performance Optimization]
+    
+    C --> C1[Major Project Contributions]
+    C --> C2[Knowledge Sharing]
+    C --> C3[Community Building]
+    
+    D --> D1[Technical Writing]
+    D --> D2[Conference Speaking]
+    D --> D3[Mentorship Programs]
+
+    style A fill:#61DAFB,stroke:#fff,stroke-width:2px
+    style B fill:#3178C6,stroke:#fff,stroke-width:2px
+    style C fill:#4FC08D,stroke:#fff,stroke-width:2px
+    style D fill:#FFD43B,stroke:#fff,stroke-width:2px
 ```
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=AerisWispX&repo=RealTimeChat&theme=radical)](https://github.com/AerisWispX/RealTimeChat)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=AerisWispX&repo=RealTimeChat&theme=radical&border_color=61DAFB)](https://github.com/AerisWispX/RealTimeChat)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=AerisWispX&repo=CloudArchitecture&theme=radical&border_color=61DAFB)](https://github.com/AerisWispX/CloudArchitecture)
 
 </div>
 
-## 🤝 Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00A98F?style=for-the-badge&logo=about.me)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
-
-</div>
+## 🤝 Professional Network
 
 <div align="center">
 
-### 💭 Daily Mantra
-*"Code is poetry written in logic"*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://your-portfolio.com)
+[![Blog](https://img.shields.io/badge/Blog-Read-FFA500?style=for-the-badge&logo=hashnode&logoColor=white)](https://your-blog.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+### 💭 Engineering Philosophy
+*"Crafting elegant solutions to complex problems, one line of code at a time."*
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=12,24,36&height=100&section=footer&stroke=61DAFB" width="100%"/>
 
 </div>
